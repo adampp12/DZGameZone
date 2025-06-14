@@ -1,0 +1,41 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0e1a24;
+    color: #d4e9e2;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #162c3a;
+    padding: 15px;
+    text-align: center;
+}
+nav a {
+    margin: 0 10px;
+    color: #89c9b8;
+    text-decoration: none;
+}
+nav span {
+    margin-right: 10px;
+}
+section {
+    padding: 20px;
+}
+.game {
+    background-color: #1d3644;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+input, button {
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+}
+button {
+    background-color: #2e8c74;
+    color: white;
+    cursor: pointer;
+}
